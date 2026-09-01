@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"BZ1","1","Buzzer","","","","","${EXCLUDE_FROM_POS_FILES}","Buzzer_Beeper:Buzzer_12x9.5RM7.6",""
+"J1","1","Conn_01x08_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical",""
+"SW1,SW2,SW3,SW4","4","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
+"U1","1","XIAO-ESP32-C3-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD",""
