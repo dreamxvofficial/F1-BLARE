@@ -60,7 +60,7 @@ When an alarm goes off, the buzzer plays until the user presses the alarm button
 
  PCB | 3D Model |
  --- | --- |
- ![PCB](images/pcb.png) | ![3D PCB](images/pcb-3d.png) |
+ ![PCB](Images/pcb.png) | ![3D PCB](Images/pcb-3d.png) |
 
 ### Case
 
@@ -68,8 +68,8 @@ The PCB will be mounted inside the base of the clock, with the TFT display on th
 
 The F1 car body sits on top of the base to make the whole thing look like an F1 car rather than a normal alarm clock.
 
-![F1 BLARE](images/f1-blare.png)
-![F1 BLARE](images/f1-blare-side.png)
+![F1 BLARE](Images/f1-blare.png)
+![F1 BLARE](Images/f1-blare-side.png)
 ### Firmware
 
 The firmware is written using Arduino IDE and runs on the XIAO ESP32-C3.
