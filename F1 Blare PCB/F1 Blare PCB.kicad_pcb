@@ -654,7 +654,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "D:/F1 BLARE/TFT Screen/Display with pins.step"
+		(model "D:/F1 BLARE/Additional Model/TFT Screen/Display with pins.step"
 			(offset
 				(xyz -66 -23 19)
 			)
@@ -1062,7 +1062,7 @@
 			(uuid "818c4fde-f139-4a5c-ba73-30f71ea8d4ac")
 		)
 		(embedded_fonts no)
-		(model "D:/F1 BLARE/Key/mxstp.stp"
+		(model "D:/F1 BLARE/Additional Model/Key/mxstp.stp"
 			(offset
 				(xyz -2.5 -5 6.5)
 			)
@@ -1354,7 +1354,7 @@
 			(uuid "e37ca9d0-9b19-47cb-804a-cbdde5dad36a")
 		)
 		(embedded_fonts no)
-		(model "D:/F1 BLARE/Key/mxstp.stp"
+		(model "D:/F1 BLARE/Additional Model/Key/mxstp.stp"
 			(offset
 				(xyz -2.5 -5 6.5)
 			)
@@ -1646,7 +1646,7 @@
 			(uuid "21196b5f-5d8c-47b3-9133-cd7e7379973c")
 		)
 		(embedded_fonts no)
-		(model "D:/F1 BLARE/Key/mxstp.stp"
+		(model "D:/F1 BLARE/Additional Model/Key/mxstp.stp"
 			(offset
 				(xyz -2.5 -5 6.5)
 			)
@@ -2054,7 +2054,7 @@
 			(uuid "2734f110-a4e7-4001-858d-1f0470934ccb")
 		)
 		(embedded_fonts no)
-		(model "D:/F1 BLARE/Key/mxstp.stp"
+		(model "D:/F1 BLARE/Additional Model/Key/mxstp.stp"
 			(offset
 				(xyz -2.5 -5 6.5)
 			)
@@ -2567,7 +2567,7 @@
 			(uuid "1870b559-f6ab-4005-8f9d-270cca4dddc6")
 		)
 		(embedded_fonts no)
-		(model "D:/F1 BLARE/ESP 32 C3/Seeed Studio XIAO-ESP32-C3.step"
+		(model "D:/F1 BLARE/Additional Model/ESP 32 C3/Seeed Studio XIAO-ESP32-C3.step"
 			(offset
 				(xyz 15 9 -0.5)
 			)
