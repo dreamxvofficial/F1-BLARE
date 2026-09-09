@@ -56,6 +56,10 @@ On an alarm screen:
 
 When an alarm goes off, the buzzer plays until the user presses the alarm button.
 
+### Schematic
+
+![Schematic](Images/schematic.png)
+
 ### PCB
 
  PCB | 3D Model |
