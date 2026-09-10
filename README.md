@@ -85,6 +85,7 @@ The enclosure will use rounded edges, racing-inspired shapes and details while k
 Unlike using an imported F1 car STL, the enclosure itself is designed as a proper CAD model so that the dimensions can be matched to the PCB and components.
 
 ![F1 BLARE](Images/f1-blare.png)
+![F1 BLARE](Images/f1_Blare.png)
 
 ### Firmware
 
